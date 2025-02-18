@@ -1,6 +1,6 @@
-package meta.repository;
+package meta.metalablk.repository;
 
-import com.repairapp.entity.Task;
+import meta.metalablk.entity.Task;
 import org.springframework.data.jpa.repository.JpaRepository;
 import java.util.List;
 

@@ -1,6 +1,6 @@
-package meta.repository;
+package meta.metalablk.repository;
 
-import com.repairapp.entity.User;
+import meta.metalablk.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import java.util.Optional;
 

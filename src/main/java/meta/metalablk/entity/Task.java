@@ -1,4 +1,4 @@
-package meta.entity;
+package meta.metalablk.entity;
 
 import jakarta.persistence.*;
 import lombok.*;

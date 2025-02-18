@@ -1,4 +1,4 @@
-package meta.entity;
+package meta.metalablk.entity;
 
 public enum Role {
     ADMIN,
