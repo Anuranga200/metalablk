@@ -1,4 +1,4 @@
-package META_LABLK.repository;
+package meta.repository;
 
 import com.repairapp.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
